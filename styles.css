@@ -1,6 +1,12 @@
+li, p {
+    font-size: 18px;
+}
+
 body {
     display: flex;
     flex-direction: column;
+    font-family: 'georgia';
+    background-color: #EEE;
   }
   
   main {
@@ -19,3 +25,11 @@ body {
     overflow-y: auto;
   }
   
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  
+    
